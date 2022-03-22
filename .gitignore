@@ -1,2 +1,5 @@
 .idea
 __pycache__/
+__MACOSX/
+chest_xray/
+.DS_Store
